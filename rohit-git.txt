@@ -4,3 +4,4 @@ git add .                        # Stage all changes
 git commit -m "Your message"    # Commit changes
 git remote add origin <URL>     # Link to GitHub repo
 git push -u origin main          # Push to GitHub (main/master)
+git branch -m master main
